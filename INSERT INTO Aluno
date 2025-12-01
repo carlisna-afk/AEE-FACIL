@@ -1,0 +1,5 @@
+('11111111111', 'Pedro Angelo Marques', '2014-06-19', 'Maria Marques', 'João Marques', 'Masculino',
+ 'Preto', 'Não', 'Brasileira', 'Brasil', 'São Paulo', '123456', 'Brasil', '01001-000', 'São Paulo', 'Urbana'),
+
+('22222222222', 'Ana Julia Santos', '2012-03-10', 'Carla Santos', 'Paulo Santos', 'Feminino',
+ 'Parda', 'Não', 'Brasileira', 'Brasil', 'Campinas', '654321', 'Brasil', '13015-000', 'Campinas', 'Urbana');

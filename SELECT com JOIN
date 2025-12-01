@@ -1,0 +1,7 @@
+SELECT a.Nome_Completo AS Aluno,
+       d.Nome_Completo AS Docente,
+       atd.Conteudo,
+       atd.Relatorio_Semanal
+FROM Atendimento atd
+JOIN Aluno a ON atd.CPF_Aluno = a.CPF_Aluno
+JOIN Docente d ON atd.CPF_Docente = d.CPF_Docente;

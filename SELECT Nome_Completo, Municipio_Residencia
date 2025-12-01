@@ -1,0 +1,2 @@
+FROM Aluno
+WHERE Zona_Residencia = 'Urbana';
